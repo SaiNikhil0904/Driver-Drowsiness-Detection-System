@@ -41,5 +41,4 @@ Thank you for joining us on this transformative journey towards safer roads!
 
 For inquiries, collaboration opportunities, or further information, please feel free to reach out to:
 
-                                      Contact-nikhilgodavarthi9@gmail.com
-                                      
+**Email:** nikhilgodavarthi9@gmail.com
