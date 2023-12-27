@@ -25,7 +25,7 @@ Our mission is clear: to curb the alarming rates of accidents caused by drowsy d
 
 **Alert Mechanism:** In the event of detected drowsiness, the system triggers immediate alerts, ensuring swift and corrective action.
 
-**Adaptive Technology: **Utilizing cutting-edge simulations and carefully crafted circuits, our system adapts to diverse driving conditions.
+**Adaptive Technology:** Utilizing cutting-edge simulations and carefully crafted circuits, our system adapts to diverse driving conditions.
 
 # Project Impact: 
 
