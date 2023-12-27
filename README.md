@@ -28,14 +28,6 @@ On the software front, we utilize a sophisticated set of tools and languages:
 
 🖥️ Proteus 8 Professional, 🔄 VSPE, 🐍 Python 3.10, 📚 Essential libraries: NumPy, Dlib, imutils, OpenCV, SciPy, etc.
 
-# Tech Specs
-
-- **Programming Languages:** Python
-- **Hardware Interaction:** GPIO, Camera Interface
-- **Simulation:** Proteus 8 Professional
-- **Communication:** GSM Module
-- **User Interface:** LCD Display Board, Buzzer, Vibration Sensor
-
 # Mentor
 
 Our heartfelt thanks to Dr. Nirupama for her invaluable mentorship, guiding us through the intricacies of hardware-software integration and ensuring the success of our project.
